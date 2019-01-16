@@ -5,13 +5,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <p>Created with the help of Maximilian Schwarzmüller's Udemy Course.</p>
 
 <h4>Languages/Packages/Frameworks used:</h4>
-<ul>React 16</ul>
-<ul>Redux</ul>
-<ul>React Router</ul>
-<ul>Axios</ul>
-<ul>CSS3</ul>
-<ul>Webpacl</ul>
-<ul>FireBase for Databse and Hosting</ul>
+<ul>
+    <li>React 16</li>
+    <li>Redux</li>
+    <li>React Router</li>
+    <li>Axios</li>
+    <li>CSS3</li>
+    <li>Webpack</li>
+    <li>Firebase for Database and Hosting</li>
+       
+</ul>
 
 <h4>Live Version</h4>
 The live version can be found at: 
