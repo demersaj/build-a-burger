@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     <li>Axios</li>
     <li>CSS3</li>
     <li>Webpack</li>
-    <li>Firebase for Database and Hosting</li>
+    <li>Firebase for database management, hosting, and authentication</li>
        
 </ul>
 
