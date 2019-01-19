@@ -18,4 +18,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </ul>
 
 <h3>Live Version</h3>
-The live version can be found at: 
+The live version can be found at: https://build-a-burger-399bc.firebaseapp.com/
