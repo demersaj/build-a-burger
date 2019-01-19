@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h3>App Description</h3>
 <p>This project was done to learn and practice React.</p>
-<p>Created with the help of Maximilian Schwarzmüller's Udemy Course.</p>
+<p>Created with the help of Maximilian Schwarzmüller's React 16.6 Udemy Course.</p>
 
 <h3>Languages/Packages/Frameworks used:</h3>
 <ul>
@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     <li>CSS3</li>
     <li>Webpack</li>
     <li>Firebase for database management, hosting, and authentication</li>
+    <li>Jest and Enzyme for testing</li>
        
 </ul>
 
