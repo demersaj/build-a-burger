@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     <li>CSS3</li>
     <li>Webpack</li>
     <li>Firebase for database management, hosting, and authentication</li>
+    <li>Jest for testing</li>
        
 </ul>
 
